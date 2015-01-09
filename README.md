@@ -25,7 +25,7 @@
 
 P.S. 第四點能融入各種你想要的功能，功能越多加分越多
 
-P.S. SQLite[範例可參考這邊](https://github.com/androidksu/SQLite/issues)
+P.S. SQLite[範例可參考這邊](https://github.com/androidksu/SQLite_example)
 
 #### 內容數據如下
 
