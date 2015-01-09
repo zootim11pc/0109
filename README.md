@@ -33,10 +33,10 @@ P.S. 第四點能融入各種功能，例如能
 | 倖田來未  | 156 | 41 | 16.8 |
 
 
-| First Header | Second Header | Third Header |
-| ------------ | ------------- | ------------ |
-| Content Cell | Content Cell  | Content Cell |
-| Content Cell | Content Cell  | Content Cell |
+| First Header | Second Header | Third Header | Third Header |
+| ------------ | ------------- | ------------ | ------------ |
+| Content Cell | Content Cell  | Content Cell | Content Cell |
+| Content Cell | Content Cell  | Content Cell | Content Cell |
 
 ## 繳交規則
 
