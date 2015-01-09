@@ -26,17 +26,11 @@
 P.S. 第四點能融入各種功能，例如能
 
 | 姓名 | 身高 | 體重 | BMI |
-| --- | --- | --- | --- |
+| --- | --- | ---- | ---- |
 | 江戶川小俊 | 179  | 72 | 22.4 |
 | 兩津勘吉  | 165 | 71 | 26.0 |
 | 宇多田光  | 156 | 40 | 16.4 |
 | 倖田來未  | 156 | 41 | 16.8 |
-
-
-| First Header | Second Header | Third Header | Third Header |
-| ------------ | ------------- | ------------ | ------------ |
-| Content Cell | Content Cell  | Content Cell | Content Cell |
-| Content Cell | Content Cell  | Content Cell | Content Cell |
 
 ## 繳交規則
 
