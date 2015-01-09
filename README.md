@@ -2,7 +2,7 @@
 
 加分對象為課程「手機程式設計A」同學，可以任意討論寫code。
 
-同學可以在[GitHub上發起任何討論](https://github.com/androidksu/SQLite/issues)
+同學可以在[GitHub上發起任何討論](https://github.com/androidksu/Bonus_ReadMe/issues)
 
 1. 時間至1/12 15:00截止
 2. Repository簡稱Repo
