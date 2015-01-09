@@ -35,6 +35,23 @@ P.S. SQLite[範例可參考這邊](https://github.com/androidksu/SQLite/issues)
 | 倖田來未  | 156 | 41 | 16.8 |
 
 
+ #1 
+ 
+ ![](https://github.com/androidksu/Bonus_ReadMe/blob/master/res/01.png)
+
+ #2 
+ 
+ ![](https://github.com/androidksu/Bonus_ReadMe/blob/master/res/02.png)
+
+ #3
+ 
+ ![](https://github.com/androidksu/Bonus_ReadMe/blob/master/res/03.png)
+ 
+ #4 
+ 
+ ![](https://github.com/androidksu/Bonus_ReadMe/blob/master/res/04.png)
+
+
 ## 繳交規則
 
 1. 建立Repo請以學號命名底線bonus，例：4020D000_bonus
@@ -43,7 +60,7 @@ P.S. SQLite[範例可參考這邊](https://github.com/androidksu/SQLite/issues)
 
 #### 參考結構
 
-「4020D000_bonus」為你的
+「4020D000_bonus」為你的Repo名稱，底下放你的Android專案
 
 ```
 4020D000_bonus/
